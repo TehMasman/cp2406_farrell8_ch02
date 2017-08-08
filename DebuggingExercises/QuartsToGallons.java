@@ -4,7 +4,7 @@ import java.awt.*;
  * Created by jc243967 on 8/08/17.
  */
 public class QuartsToGallons {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int QUARTSTOGALLONS = 4;
         int QUARTSNEEDED = 18;
         int gal, quarts;

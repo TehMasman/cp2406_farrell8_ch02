@@ -1,7 +1,7 @@
 public class DebugTwo2
 //  This application performs arithmetic with two integers
 {
-   public static void main(String args[])
+   public static void main(String[] args)
    {
       int a, b;
       a = 7;

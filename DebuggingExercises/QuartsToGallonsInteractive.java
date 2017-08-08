@@ -1,7 +1,6 @@
-import javax.swing.JOptionPane;
 import java.util.Scanner;
 public class QuartsToGallonsInteractive {
-    public static void main(String args[]){
+    public static void main(String[] args){
         int QUARTSTOGALLONS = 4;
         int gal, quarts, quartsNeeded;
         Scanner inputDevice = new Scanner(System.in);
@@ -16,5 +15,4 @@ public class QuartsToGallonsInteractive {
             System.out.println("The job requires " + gal +" Gallons");
         }
     }
-
 }

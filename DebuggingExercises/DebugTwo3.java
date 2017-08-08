@@ -1,7 +1,7 @@
 public class DebugTwo3
 // Demonstrates remainder and output
 {
-   public static void main(String args[])
+   public static void main(String[] args)
    {
       int a = 99, b = 8, result;
       long c = 7777777777777L;
